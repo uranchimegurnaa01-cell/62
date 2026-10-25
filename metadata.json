@@ -1,0 +1,8 @@
+{
+  "name": "Remix Мэдээллийн технологи XII - Шалгалтын систем",
+  "description": "12-р ангийн мэдээллийн технологийн 40 минутын онлайн сорил, хуулалтын эсрэг хамгаалалт, дүнгийн бүртгэлтэй систем",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
